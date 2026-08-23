@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -26,6 +28,9 @@ Here are some ideas to get you started:
 
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/vikasaurous/vikasaurous/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/vikasaurous/vikasaurous/output/github-snake-dark.svg"
   />
+
 </picture>
+
+</div>
