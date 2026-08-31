@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">DIGITAL ACTIVITY</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vikasaurous&theme=tokyonight-duo&hide_border=true&border_radius=12&timezone=Asia%2FKolkata&card_width=950&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=79C0FF&currStreakLabel=58A6FF&sideLabels=F0F6FC&dates=8B949E&background=45%2C0D1117%2C161B22"
+    alt="GitHub Streak"
+  />
+</p>
 <div align="center">
 
 <picture>
